@@ -28,7 +28,7 @@
 ### Output:
 
 
-<img width="1582" height="990" alt="Screenshot 2026-09-04 192042" src="https://github.com/user-attachments/assets/dbd8fde3-841c-4084-a678-5fc169fe2853" />
+<img width="1582" height="938" alt="image" src="https://github.com/user-attachments/assets/54532bee-33b1-42e3-827a-919f3abd9838" />
 
 
 
@@ -41,8 +41,3 @@
 The Excel data was imported into RapidMiner, sentiment analysis was performed using the Generate Attributes operator with the VADER algorithm, and the results were analyzed and exported to a new Excel file successfully.
 
 
-
-
-### Result:
-
-Thus, Sentimental Analysis for the given data using Rapidminer is done successfully.
